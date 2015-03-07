@@ -1,0 +1,25 @@
+    ___      ________      ___      ___  ________          ________
+   |\  \    |\   __  \    |\  \    /  /||\   __  \        |\   __  \
+   \ \  \   \ \  \|\  \   \ \  \  /  / /\ \  \|\  \       \ \  \|\  \
+ __ \ \  \   \ \   __  \   \ \  \/  / /  \ \   __  \       \ \   __  \
+|\  \\_\  \   \ \  \ \  \   \ \    / /    \ \  \ \  \       \ \  \|\  \
+\ \________\   \ \__\ \__\   \ \__/ /      \ \__\ \__\       \ \_______\
+ \|________|    \|__|\|__|    \|__|/        \|__|\|__|        \|_______|
+
+
+
+*   The next bing thing in Java
+*   What's Lambda expressions
+*   Refactoring from external to internal iterator
+*   Fundamental shift: from imperative to functional style
+*   Mapping operation - eliminating mutability
+*   How do lambda expressions look under the covers
+*   How are these new methods available on existing interfaces ?
+*   Default methods
+*   Implementing Strategy pattern
+*   Composing with lambda expressions
+*   Laziness of Streams
+
+Next talk ...
+
+*   Parallel libraries
